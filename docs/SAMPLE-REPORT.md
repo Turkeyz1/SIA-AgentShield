@@ -34,4 +34,4 @@ AgentShield findings are signals for investigation, not declarations that softwa
 
 This sample intentionally contains no proprietary AgentShield detection logic, rules, signatures, or scanner implementation.
 
-**SIA AgentShield · Built by Mahmoud Hisham · © 2026 Mahmoud Hisham. All rights reserved.**
+**AgentShield · Built by Mahmoud Hisham · © 2026 Mahmoud Hisham. All rights reserved.**
