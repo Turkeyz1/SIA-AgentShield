@@ -32,7 +32,7 @@ See [docs/SAMPLE-REPORT.md](docs/SAMPLE-REPORT.md).
 
 The scanner implementation, detection rules, paid Skill package, and production configuration are intentionally **not included** in this public repository.
 
-➡️ **Get AgentShield:** https://lnkd.in/e2ztCUcn
+➡️ **Get AgentShield:** https://capafy.ai/agent/agentshield-ai-skill-mcp-security-scanner/1745400974
 
 ## Responsible positioning
 AgentShield is a risk-inspection tool. A finding is not, by itself, proof that software is malicious, and absence of findings is not a guarantee of security.
