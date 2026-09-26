@@ -1,8 +1,8 @@
-# 🛡️ SIA AgentShield
+# 🛡️ AgentShield
 
 **Evidence-based security inspection for AI Skills and MCP servers — before you trust them.**
 
-> Part of **SIA Security** · Built by **Mahmoud Hisham**
+> Built by **Mahmoud Hisham**
 
 AI Skills and MCP servers can interact with files, commands, dependencies, credentials, environment variables, and external services. AgentShield helps developers inspect that risk surface before installing or connecting third-party agent tooling.
 
@@ -34,17 +34,12 @@ The scanner implementation, detection rules, paid Skill package, and production 
 
 ➡️ **Get AgentShield:** https://lnkd.in/e2ztCUcn
 
-## SIA Security
-AgentShield is part of **SIA Security**, focused on secure and understandable AI-agent infrastructure.
-
-SIA Runtime: https://github.com/Turkeyz1/SIA-Agent-Runtime
-
 ## Responsible positioning
 AgentShield is a risk-inspection tool. A finding is not, by itself, proof that software is malicious, and absence of findings is not a guarantee of security.
 
 ## Ownership
 **Developer / Publisher:** Mahmoud Hisham  
-**Product:** SIA AgentShield  
+**Product:** AgentShield  
 **Copyright © 2026 Mahmoud Hisham. All rights reserved.**
 
 This public repository provides product documentation only. No rights to the proprietary AgentShield implementation, paid package, detection rules, or commercial assets are granted by publication of this repository.
