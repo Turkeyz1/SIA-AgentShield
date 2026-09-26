@@ -1,6 +1,6 @@
 # Threat Model
 
-SIA AgentShield focuses on risks that may appear when developers install AI Skills or connect MCP servers to agent environments.
+AgentShield focuses on risks that may appear when developers install AI Skills or connect MCP servers to agent environments.
 
 ## Risk areas
 - Command and script execution
