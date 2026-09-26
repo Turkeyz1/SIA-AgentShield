@@ -2,7 +2,7 @@
 
 ## AgentShield v2.0
 
-Current commercial generation of SIA AgentShield.
+Current commercial generation of AgentShield.
 
 ### Public highlights
 - Expanded AI Skill and MCP inspection
